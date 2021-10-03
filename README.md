@@ -1,1 +1,1 @@
-# class-34
+# C-34Template
